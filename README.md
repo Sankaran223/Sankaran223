@@ -1,42 +1,84 @@
-**Flood Monitoring and Early Warning System** 
+<h1 align="center">Hi 👋, I'm Sankaran S</h1>
+<h3 align="center">Java Developer | Spring Boot Learner | Web Application Developer</h3>
 
-**Project Phase 1 Report** 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Developer;Spring+Boot+Developer;Web+Application+Builder;Learning+DSA+%26+Backend+Development" />
+</p>
 
-**Problem Definition and Design Thinking** 
+---
 
-**Project Title: IoT-based Flood Monitoring and Early Warning System Introduction:** 
+## 🚀 About Me
 
-In this report, we present the outcomes of Phase 1: Problem Definition and Design Thinking, for the project titled "IoT-based Flood Monitoring and Early Warning System."  
+- 💻 Passionate about Java & Backend Development
+- 🌱 Currently learning **Spring Boot, DSA & Web Applications**
+- 🚀 Building scalable and user-friendly applications
+- 📌 Interested in Full Stack Development & AI-based applications
+- ⚡ Belief: *Scale Smarter, Not Harder.*
 
-The primary goal of this phase was to understand the project's requirements and design a comprehensive plan to address the challenges associated with monitoring water levels near water bodies and flood-prone areas, while providing timely flood warnings to the public and emergency response teams. 
+---
 
-**Project Definition:** 
+## 🛠️ Tech Stack
 
-**Problem Statement:** The project is driven by the need to enhance flood preparedness and response in areas susceptible to flooding. This is to be achieved by deploying IoT sensors near water bodies and flood-prone areas to monitor water levels. The sensors will feed real-time data to a web-based platform that will issue early flood warnings to both the public and emergency response teams. 
+<p align="left">
 
-**Objectives:** 
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,firebase,git,github,vscode" />
 
-1. **Real-time Flood Monitoring:** Develop a system capable of continuously monitoring water levels near water bodies and flood-prone areas. 
-1. **Early Warning Issuance:** Implement a mechanism that can issue early flood warnings when water levels exceed predefined thresholds. 
-1. **Public Safety:** Ensure that the system provides accessible and accurate information to the general public. 
-1. **Emergency Response Coordination:** Facilitate coordination between emergency response teams based on the information received from the system. 
+</p>
 
-**Design Thinking:** 
+---
 
-1. **Project Objectives:** Our project objectives are well-defined and serve as a foundation for the entire project. They address the need for real-time flood monitoring, early warning issuance, public safety, and emergency response coordination. These objectives will guide the design and development phases. 
-1. **IoT Sensor Network Design:** 
-- **Sensor Selection:** We will carefully select appropriate IoT sensors capable of accurately measuring water levels. 
-- **Deployment Strategy:** Plan the strategic placement of sensors in flood- prone areas, ensuring comprehensive coverage. 
-- **Data Quality Assurance:** Implement measures to ensure the reliability and accuracy of the data collected by sensors. 
-3. **Early Warning Platform:** 
-- **Web-Based Interface:** Design a user-friendly web-based platform that displays real-time water level data. 
-- **Warning Algorithm:** Develop algorithms that trigger warnings when water levels reach critical thresholds. 
-- **User Accessibility:** Ensure that the platform is accessible to the public and emergency response teams through various devices. 
-4. **Integration Approach:** 
-- **Data Transmission:** Determine the method of data transmission from sensors to the early warning platform. Options include cellular networks, Wi-Fi, or LoRa. 
-- **Data Processing:** Establish a data processing pipeline to handle incoming sensor data efficiently. 
-- **Alert System Integration:** Integrate the early warning issuance system with the platform for seamless alert generation. 
+## 📌 Featured Projects
 
-**Conclusion:** 
+### 🌍 Tourist Guide Website
+A smart tourism platform for discovering destinations, nearby attractions, hotels, and trip planning.
 
-In Phase 1, we have defined the problem statement and outlined a clear set of project objectives. We have also initiated the design thinking process by addressing key aspects such as IoT sensor network design, early warning platform development, and integration approaches. The success of the project will depend on effective execution of these design elements. Phase 2 will involve detailed planning and implementation of the proposed design to create a functional IoT- based Flood Monitoring and Early Warning System.
+### 🌊 Flood Monitoring & Early Warning System
+IoT-based flood monitoring solution for real-time alerts and disaster prevention.
+
+### 💳 Crediflow
+Finance-related web application built using JavaScript technologies.
+
+### ⚡ ChargeOps
+Application focused on operational and charging management systems.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sankaran223&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankaran223&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sankaran223&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/sankaran-s">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
