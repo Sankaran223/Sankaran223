@@ -1,27 +1,42 @@
 <h1 align="center">Hi 👋, I'm Sankaran S</h1>
-<h3 align="center">Java Developer | Spring Boot Learner | Web Application Developer</h3>
+<h3 align="center">Java Developer | Spring Boot Developer | Full Stack Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Developer;Spring+Boot+Developer;Web+Application+Builder;Learning+DSA+%26+Backend+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;React+Learner;Backend+%26+Microservices+Enthusiast" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Passionate about Java & Backend Development
-- 🌱 Currently learning **Spring Boot, DSA & Web Applications**
-- 🚀 Building scalable and user-friendly applications
-- 📌 Interested in Full Stack Development & AI-based applications
-- ⚡ Belief: *Scale Smarter, Not Harder.*
+- 💻 Passionate about Backend & Full Stack Development
+- 🌱 Currently learning **Microservices & Advanced Java**
+- 🚀 Building scalable web applications
+- 📌 Interested in AI-powered applications and modern web technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,firebase,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,bootstrap,mongodb,mysql,git,github,postman,vscode" />
+
+</p>
+
+<p align="center">
+
+🔹 Java  
+🔹 Spring Boot  
+🔹 MongoDB  
+🔹 SQL / MySQL  
+🔹 React  
+🔹 JavaScript  
+🔹 HTML5 & CSS3  
+🔹 Bootstrap  
+🔹 Git & GitHub  
+🔹 Postman  
+🔹 Microservices Architecture  
 
 </p>
 
@@ -30,16 +45,16 @@
 ## 📌 Featured Projects
 
 ### 🌍 Tourist Guide Website
-A smart tourism platform for discovering destinations, nearby attractions, hotels, and trip planning.
+Smart tourism platform with destination discovery, nearby attractions, and travel planning.
 
 ### 🌊 Flood Monitoring & Early Warning System
-IoT-based flood monitoring solution for real-time alerts and disaster prevention.
+IoT-based real-time flood monitoring and alert system.
 
 ### 💳 Crediflow
-Finance-related web application built using JavaScript technologies.
+Finance-oriented web application with modern frontend technologies.
 
 ### ⚡ ChargeOps
-Application focused on operational and charging management systems.
+Operational management system focused on efficiency and automation.
 
 ---
 
@@ -65,13 +80,13 @@ Application focused on operational and charging management systems.
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/sankaran-s">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:sankrn332@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
